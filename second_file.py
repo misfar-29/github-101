@@ -6,4 +6,4 @@ def print_my_name():
 
 
 print_hello_world()
-print_my_name
+print_my_name()
